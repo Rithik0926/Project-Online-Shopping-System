@@ -1,7 +1,7 @@
 # 🛒 Online Shopping System (MySQL Project)
 
 ## 📌 Description
-A backend SQL project simulating order placement with stock management and error handling.
+Online Shopping System is a user-friendly e-commerce web app enabling seamless product browsing, cart management, and order placement. It features user authentication, dynamic product listings, and order tracking, delivering an efficient and responsive shopping experience.
 
 ## 🗂️ Features
 - Tables: Product, Customer, Orders, Order_Details
@@ -21,7 +21,12 @@ CALL PlaceOrder(101, 1, 1); -- valid
 CALL PlaceOrder(101, 2, 999); -- invalid
 
 ## 📸 Screenshots
-Place your phpMyAdmin screenshots in the `screenshots/` folder.
+<img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/eea18e88-13b6-4b46-bb2a-4b77e2595593" />
+<img width="1600" height="716" alt="image" src="https://github.com/user-attachments/assets/78f09f28-3a75-4976-bd03-84e654c3d7d9" />
+<img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/92721140-9fc8-44a3-ac89-fbb2e6225495" />
+
+
+
 
 ## 👤 Created By
-Your Name
+RITHIK KUMAR.S
